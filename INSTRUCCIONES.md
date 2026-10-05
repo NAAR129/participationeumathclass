@@ -31,7 +31,7 @@
 20. Abre la página en una ventana nueva o recarga con Ctrl + F5. Selecciona un idioma.
 21. Envía una inscripción de prueba y comprueba que aparece una fila nueva en la pestaña registro.
 22. Debe aparecer la tarjeta de agradecimiento en el idioma seleccionado, con ambos logos. La dirección cambia a Google porque el script presenta la confirmación; el botón Volver a la página abre de nuevo el formulario.
-23. Prueba el selector ES/EN/DE/IT y la página en el celular. La primera visita usa el idioma del navegador si está entre los cuatro; otros idiomas usan inglés. Una elección manual se recuerda en ese navegador.
+23. Prueba el selector ES/EN/DE/IT/PT/HR/EL y la página en el celular. La primera visita usa el idioma del navegador si está entre los siete; otros idiomas usan inglés. Una elección manual se recuerda en ese navegador.
 
 ## Si algo falla
 - Si no puedes abrir Apps Script o aparece otra cuenta, usa la misma ventana de incógnito con una sola cuenta.

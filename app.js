@@ -60,7 +60,64 @@ const translations = {
     sending: 'Invio in corso…', status: 'Stiamo inviando la tua iscrizione…',
     required: 'Compila questo campo.',
     footer: 'Finanziato dall’Unione europea (sovvenzione n. KA220-HED-000358034). Le opinioni espresse appartengono esclusivamente agli autori e non riflettono necessariamente quelle dell’Unione europea o dell’Agenzia nazionale Erasmus+. Né l’Unione europea né l’autorità concedente possono essere ritenute responsabili.'
-  }
+  },
+  pt: {
+  "thanks": "Obrigado pela sua participação",
+  "received": "Recebemos a sua inscrição com sucesso.",
+  "next": "Enviar-lhe-emos informações sobre o projeto EuMathClass e acesso aos materiais que formos desenvolvendo.",
+  "uncertain": "Não foi possível confirmar a receção da sua inscrição. É possível que tenha sido guardada; evite enviá-la novamente e contacte a equipa do projeto.",
+  "unavailable": "As inscrições estarão disponíveis em breve.",
+  "language": "Idioma",
+  "title": "Participação",
+  "intro": "Inscreva-se para receber informações sobre o projeto EuMathClass e acesso aos materiais que formos desenvolvendo.",
+  "name": "Nome",
+  "email": "Endereço de e-mail",
+  "country": "País",
+  "submit": "Inscrever-me",
+  "purpose": "Ao inscrever-se, aceita que utilizemos o seu nome, endereço de e-mail e país para lhe enviar informações e materiais do projeto EuMathClass.",
+  "sending": "A enviar…",
+  "status": "Estamos a enviar a sua inscrição…",
+  "required": "Preencha este campo.",
+  "footer": "Financiado pela União Europeia (subvenção n.º KA220-HED-000358034). Os pontos de vista e as opiniões expressos são exclusivamente dos autores e não refletem necessariamente os da União Europeia ou da Agência Nacional Erasmus+. Nem a União Europeia nem a entidade concedente podem ser responsabilizadas pelos mesmos."
+},
+  hr: {
+  "thanks": "Hvala na sudjelovanju",
+  "received": "Vaša je prijava uspješno zaprimljena.",
+  "next": "Poslat ćemo vam informacije o projektu EuMathClass i omogućiti pristup materijalima koje budemo izrađivali.",
+  "uncertain": "Nismo mogli potvrditi primitak vaše prijave. Moguće je da je spremljena; nemojte je ponovno slati i obratite se projektnom timu.",
+  "unavailable": "Prijave će uskoro biti dostupne.",
+  "language": "Jezik",
+  "title": "Sudjelovanje",
+  "intro": "Prijavite se kako biste primali informacije o projektu EuMathClass i pristupili materijalima koje budemo izrađivali.",
+  "name": "Ime i prezime",
+  "email": "Adresa e-pošte",
+  "country": "Država",
+  "submit": "Prijavi se",
+  "purpose": "Prijavom pristajete na to da koristimo vaše ime, adresu e-pošte i državu kako bismo vam slali informacije i materijale projekta EuMathClass.",
+  "sending": "Slanje…",
+  "status": "Vaša se prijava šalje…",
+  "required": "Ispunite ovo polje.",
+  "footer": "Financira Europska unija (broj bespovratnih sredstava KA220-HED-000358034). Izneseni stavovi i mišljenja pripadaju isključivo autorima i ne odražavaju nužno stavove Europske unije ili nacionalne agencije za Erasmus+. Ni Europska unija ni tijelo koje dodjeljuje bespovratna sredstva ne mogu se smatrati odgovornima za njih."
+},
+  el: {
+  "thanks": "Σας ευχαριστούμε για τη συμμετοχή σας",
+  "received": "Λάβαμε επιτυχώς την εγγραφή σας.",
+  "next": "Θα σας στέλνουμε πληροφορίες για το έργο EuMathClass και θα σας παρέχουμε πρόσβαση στο υλικό που θα δημιουργούμε.",
+  "uncertain": "Δεν ήταν δυνατή η επιβεβαίωση της παραλαβής της εγγραφής σας. Ενδέχεται να έχει αποθηκευτεί· αποφύγετε την εκ νέου υποβολή και επικοινωνήστε με την ομάδα του έργου.",
+  "unavailable": "Οι εγγραφές θα είναι σύντομα διαθέσιμες.",
+  "language": "Γλώσσα",
+  "title": "Συμμετοχή",
+  "intro": "Εγγραφείτε για να λαμβάνετε πληροφορίες για το έργο EuMathClass και να έχετε πρόσβαση στο υλικό που θα δημιουργούμε.",
+  "name": "Ονοματεπώνυμο",
+  "email": "Διεύθυνση ηλεκτρονικού ταχυδρομείου",
+  "country": "Χώρα",
+  "submit": "Εγγραφή",
+  "purpose": "Με την εγγραφή σας, συμφωνείτε να χρησιμοποιούμε το όνομα, τη διεύθυνση ηλεκτρονικού ταχυδρομείου και τη χώρα σας για να σας στέλνουμε πληροφορίες και υλικό του έργου EuMathClass.",
+  "sending": "Αποστολή…",
+  "status": "Η εγγραφή σας αποστέλλεται…",
+  "required": "Συμπληρώστε αυτό το πεδίο.",
+  "footer": "Χρηματοδοτείται από την Ευρωπαϊκή Ένωση (αριθμός επιχορήγησης KA220-HED-000358034). Οι απόψεις και οι γνώμες που εκφράζονται ανήκουν αποκλειστικά στους συγγραφείς και δεν αντανακλούν κατ’ ανάγκη τις απόψεις της Ευρωπαϊκής Ένωσης ή της Εθνικής Μονάδας Erasmus+. Ούτε η Ευρωπαϊκή Ένωση ούτε η αρχή που χορηγεί την επιχορήγηση μπορούν να θεωρηθούν υπεύθυνες για αυτές."
+}
 };
 
 const selector = document.getElementById('language');
